@@ -31,8 +31,8 @@
 -   -   Search
 -   -   RestaurantContainer
 -   -   RestaurantCard
--        - Img
--        - Name of Res, Star Rating, cuisine, delery tie
+-          - Img
+-          - Name of Res, Star Rating, cuisine, delery tie
 -   Footer
 -   -   Copyright
 -   -   Links
@@ -91,3 +91,4 @@ import {Component} from "path";
 -   Install @babel/preset-react - to make JSX work in test cases
 -   Include @babel/preset-react inside my babel config
 -   npm i -D @testing-library/jest-dom
+    1:21
